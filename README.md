@@ -7,11 +7,11 @@ Easily convert any YouTube video 🎥 into text using the power of whisperx 🌠
 ## 📦 Installation
 
 ```bash
-!pip install pytube
-!pip install pydub
-!pip install git+https://github.com/m-bain/whisperx.git@v3
-!pip install torch torchvision torchaudio
-# !pip install pyannote.audio
+pip install pytube
+pip install pydub
+pip install git+https://github.com/m-bain/whisperx.git@v3
+pip install torch torchvision torchaudio
+
 ```
 
 
