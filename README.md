@@ -14,6 +14,12 @@ Easily convert any YouTube video 🎥 into text using the power of whisperx 🌠
 # !pip install pyannote.audio
 ```
 
+
+## Permissions
+You need Huggingface api key at: https://huggingface.co/settings/tokens
+
+And huggingface will ask you to agree to terms of some models so be observant!
+
 ## 🚀 Usage
 
 ```python
